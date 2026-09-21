@@ -25,14 +25,14 @@ rknpidor
 #### Вариант 1: через `sudo`
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/DonMatteoVPN/TrafficGuard-auto/refs/heads/main/install-trafficguard.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/bigbossstard/TrafficGuard-auto/main/install-trafficguard.sh | sudo bash
 ```
 
 
 #### Вариант 2: уже под `root`
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/DonMatteoVPN/TrafficGuard-auto/refs/heads/main/install-trafficguard.sh | bash
+curl -fsSL https://raw.githubusercontent.com/bigbossstard/TrafficGuard-auto/main/install-trafficguard.sh | bash
 ```
 
 После успешной установки:
