@@ -40,5 +40,5 @@ curl -fsSL https://raw.githubusercontent.com/bigbossstard/TrafficGuard-auto/main
 - для запуска меню мониторинга используйте:
 
 ```bash
-rknpidor
+tguard
 ```
